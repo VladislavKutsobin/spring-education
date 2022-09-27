@@ -1,7 +1,7 @@
 package com.example.edu.springeducation.security;
 
 import com.example.edu.springeducation.security.jwt.AuthTokenFilter;
-import com.example.edu.springeducation.security.service.AuthEntryPointJwt;
+import com.example.edu.springeducation.security.jwt.AuthEntryPointJwt;
 import com.example.edu.springeducation.security.service.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
